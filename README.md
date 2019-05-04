@@ -1,10 +1,10 @@
-# Pouzzafest 8 Google Calendars
+# Pouzzafest 9 Google Calendars
 
 I've created Google calendars listing all the events per venue and I'm going to share them with the public for all the other geeks that want to add them directly in their phone.
 
-These calendars were created very quickly and I might have copied some of the information wrong. If you see an error, feel free to open an issue in this repo or email me directly at plansmash@gmail.com
+These calendars were created very quickly and I might have copied some of the information wrong. If you see an error, feel free to open an issue in this repo or email me directly at [plansmash@gmail.com](mailto:plansmash@me.com)
 
-I've also created a webpage for fun to see what I can do with the `iframe` elements below.
+I've also created [a webpage](./index.html) for fun to see what I can do with the `iframe` elements below.
 
 This is the first time I've done this. I like having the calendars on my iPhone in the calendar app.
 
@@ -13,19 +13,19 @@ This is the first time I've done this. I like having the calendars on my iPhone 
 ### URL
 
 ```
-https://calendar.google.com/calendar/embed?src=eum0c5lm2t60v78dirdi2vh604%40group.calendar.google.com&ctz=America%2FToronto
+https://calendar.google.com/calendar/embed?src=ada8j0l167s23b2494o0b2a7mk@group.calendar.google.com&ctz=America%2FToronto
 ```
 
 ### iframe
 
 ```
-<iframe src="https://calendar.google.com/calendar/embed?src=eum0c5lm2t60v78dirdi2vh604%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=ada8j0l167s23b2494o0b2a7mk@group.calendar.google.com&ctz=America%2FToronto&mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 ```
 
 ### ical
 
 ```
-https://calendar.google.com/calendar/ical/eum0c5lm2t60v78dirdi2vh604%40group.calendar.google.com/public/basic.ics
+https://calendar.google.com/calendar/ical/ada8j0l167s23b2494o0b2a7mk@group.calendar.google.com/public/basic.ics
 ```
 
 ## Foufounes
@@ -33,39 +33,39 @@ https://calendar.google.com/calendar/ical/eum0c5lm2t60v78dirdi2vh604%40group.cal
 ### URL
 
 ```
-https://calendar.google.com/calendar/embed?src=1paorfa712i4qlitik6of8ve1k%40group.calendar.google.com&ctz=America%2FToronto
+https://calendar.google.com/calendar/embed?src=obhs4fo9um4p5cdcbh9791okns@group.calendar.google.com&ctz=America%2FToronto
 ```
 
 ### iframe
 
 ```
-<iframe src="https://calendar.google.com/calendar/embed?src=1paorfa712i4qlitik6of8ve1k%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=obhs4fo9um4p5cdcbh9791okns@group.calendar.google.com&ctz=America%2FToronto&mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 ```
 
 ### ical
 
 ```
-https://calendar.google.com/calendar/ical/1paorfa712i4qlitik6of8ve1k%40group.calendar.google.com/public/basic.ics
+https://calendar.google.com/calendar/ical/obhs4fo9um4p5cdcbh9791okns@group.calendar.google.com/public/basic.ics
 ```
 
-## Foufs 2.0
+## Foufs Garage
 
 ### URL
 
 ```
-https://calendar.google.com/calendar/embed?src=r3q2uqd8tif3eqflnc6bn2qnp0%40group.calendar.google.com&ctz=America%2FToronto
+https://calendar.google.com/calendar/embed?src=baehlepa05cae1j4qd1jbf9t10@group.calendar.google.com&ctz=America%2FToronto
 ```
 
 ### iframe
 
 ```
-<iframe src="https://calendar.google.com/calendar/embed?src=r3q2uqd8tif3eqflnc6bn2qnp0%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=baehlepa05cae1j4qd1jbf9t10@group.calendar.google.com&ctz=America%2FToronto&mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 ```
 
 ### ical
 
 ```
-https://calendar.google.com/calendar/ical/r3q2uqd8tif3eqflnc6bn2qnp0%40group.calendar.google.com/public/basic.ics
+https://calendar.google.com/calendar/ical/baehlepa05cae1j4qd1jbf9t10@group.calendar.google.com/public/basic.ics
 ```
 
 ## Katacombes
@@ -73,59 +73,39 @@ https://calendar.google.com/calendar/ical/r3q2uqd8tif3eqflnc6bn2qnp0%40group.cal
 ### URL
 
 ```
-https://calendar.google.com/calendar/embed?src=llddm4tkcdst069i4pblqii1vg%40group.calendar.google.com&ctz=America%2FToronto
+https://calendar.google.com/calendar/embed?src=hi21j19qv0ijfcekv2hh61ge1c@group.calendar.google.com&ctz=America%2FToronto
 ```
 
 ### iframe
 
 ```
-<iframe src="https://calendar.google.com/calendar/embed?src=llddm4tkcdst069i4pblqii1vg%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=hi21j19qv0ijfcekv2hh61ge1c@group.calendar.google.com&ctz=America%2FToronto&mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 ```
 
 ### ical
 
 ```
-https://calendar.google.com/calendar/ical/llddm4tkcdst069i4pblqii1vg%40group.calendar.google.com/public/basic.ics
+https://calendar.google.com/calendar/ical/hi21j19qv0ijfcekv2hh61ge1c@group.calendar.google.com/public/basic.ics
 ```
 
-## Midway Speakeasy
+## Pouzzafest 9 - Beer Garden
 
 ### URL
 
 ```
-https://calendar.google.com/calendar/embed?src=viemj9mpb1ouqp318lqr8sj9fs%40group.calendar.google.com&ctz=America%2FToronto
+https://calendar.google.com/calendar/embed?src=2omgq50idjtesqmfsepbag8b2s@group.calendar.google.com&ctz=America%2FToronto
 ```
 
 ### iframe
 
 ```
-<iframe src="https://calendar.google.com/calendar/embed?src=viemj9mpb1ouqp318lqr8sj9fs%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=2omgq50idjtesqmfsepbag8b2s@group.calendar.google.com&ctz=America%2FToronto&mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 ```
 
 ### ical
 
 ```
-https://calendar.google.com/calendar/ical/viemj9mpb1ouqp318lqr8sj9fs%40group.calendar.google.com/public/basic.ics
-```
-
-## Pouzzafest 8 - Outside
-
-### URL
-
-```
-https://calendar.google.com/calendar/embed?src=4rn03bndl5beg8et5rpoeqt8io%40group.calendar.google.com&ctz=America%2FToronto
-```
-
-### iframe
-
-```
-<iframe src="https://calendar.google.com/calendar/embed?src=4rn03bndl5beg8et5rpoeqt8io%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-```
-
-### ical
-
-```
-https://calendar.google.com/calendar/ical/4rn03bndl5beg8et5rpoeqt8io%40group.calendar.google.com/public/basic.ics
+https://calendar.google.com/calendar/ical/2omgq50idjtesqmfsepbag8b2s@group.calendar.google.com/public/basic.ics
 ```
 
 ## Théâtre Sainte-Catherine
@@ -133,17 +113,34 @@ https://calendar.google.com/calendar/ical/4rn03bndl5beg8et5rpoeqt8io%40group.cal
 ### URL
 
 ```
-https://calendar.google.com/calendar/embed?src=3hcnbo1d60lvelmu7p10ml50f0%40group.calendar.google.com&ctz=America%2FToronto
+https://calendar.google.com/calendar/embed?src=veqbaea7gni4k5tj30hpbncjq4@group.calendar.google.com&ctz=America%2FToronto
 ```
 
 ### iframe
 
 ```
-<iframe src="https://calendar.google.com/calendar/embed?src=3hcnbo1d60lvelmu7p10ml50f0%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=veqbaea7gni4k5tj30hpbncjq4@group.calendar.google.com&ctz=America%2FToronto&mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 ```
 
 ### ical
 
 ```
-https://calendar.google.com/calendar/ical/3hcnbo1d60lvelmu7p10ml50f0%40group.calendar.google.com/public/basic.ics
+https://calendar.google.com/calendar/ical/veqbaea7gni4k5tj30hpbncjq4@group.calendar.google.com/public/basic.ics
+```
+
+## Turbo Haüs
+
+### URL
+```
+https://calendar.google.com/calendar/embed?src=iv64af5aefatsjvg4rujij0g08%40group.calendar.google.com&ctz=America%2FToronto
+```
+
+### iframe
+```
+<iframe src="https://calendar.google.com/calendar/embed?src=iv64af5aefatsjvg4rujij0g08%40group.calendar.google.com&ctz=America%2FToronto&mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+```
+
+### ical
+```
+https://calendar.google.com/calendar/ical/iv64af5aefatsjvg4rujij0g08%40group.calendar.google.com/public/basic.ics
 ```
